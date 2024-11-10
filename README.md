@@ -103,3 +103,7 @@ Favorites:
 GET /api/favorites/:userId: Fetches the list of pictures marked as favorite by a specific user.
 POST /api/favorites: Allows users to add a picture to their favorites.
 DELETE /api/favorites: Allows users to remove a picture from their favorites.
+
+## Here is a video demonstrating the project:
+
+[Watch the Video](assets/videos/PicShare App-Video.mp4)
